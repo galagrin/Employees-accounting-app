@@ -1,5 +1,5 @@
 import React from 'react';
-import { EmployeesListItem } from '../employees-list-item/employees-list-item';
+import EmployeesListItem from '../employees-list-item/employees-list-item';
 import './employees-list.css';
 
 export const EmployeesList = ({ data }) => {
